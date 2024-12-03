@@ -1,4 +1,4 @@
-# EVALU8
+# Evalu8 : The Next-Gen Academic Management System
 
 ## Notice: Limited Public Access
 This repository contains limited information about Evalu8 (referred to as E8 in this documentation), an AI-powered evaluation platform developed for the School of Artificial Intelligence at Amrita Vishwa Vidyapeetham, Coimbatore, India.
