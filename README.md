@@ -146,12 +146,6 @@ Within our MongoDB connection named EVALU8, we have 11 databases (excluding the 
 
 <br>
 
-<h1 id="demo">Demo</h1>
-
-Since the video is too big, the demo is uploaded in Google Drive. You can watch it <a href="https://drive.google.com/file/d/1uUYWx1LyC02-lUd8qnICZpxz0MYN2-yR/view?usp=sharing">here</a>.
-
-<br>
-
 # Coding Demo
 
 https://github.com/user-attachments/assets/0769e346-45ee-4748-a941-2d2a6962f4ee
