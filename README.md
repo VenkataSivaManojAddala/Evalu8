@@ -146,32 +146,6 @@ Within our MongoDB connection named EVALU8, we have 11 databases (excluding the 
 
 <br>
 
-<h1 id="admin-portal">Admin Portal</h1>
-    
-    This work is yet to be done.
-
-<br>
-
-<h1 id="work-to-do">Work to do</h1>
-
-1. Setup the authentication flow using AWS Cognito or some reliable auth provider.
-1. Execution for python programs.
-2. Ability to make a course inactive (Is not functional at this moment).
-3. Remove a created test.
-4. Design and implement Admin stream of the project. The admin should have the privilige 
-    - To add/remove questions on demand.
-    - To add/remove batches of students and faculty.
-    - The admin should be the one who creates an signs up students for E8. The default password should be same as the User ID (Unique student ID).
-5. Auto Submit functionality for tests (just calling the submit function). 
-6. Option to report a bug or error to the faculty and admin.
-7. Making the *Reset Code* button functional in code type tests
-8. A test should be submitted only once, block multiple submissions, students should be unable to open a submitted test again.
-9. The courses section of the website is of no use right now. That can be used if all the acedmic stuff is put on this site, like the assignments.
-10. Make the *Download Attendace* and *Download Marksheet* buttons functional.
-11. Setup the evaluation flow for coding type questions.
-
-<br>
-
 <h1 id="demo">Demo</h1>
 
 Since the video is too big, the demo is uploaded in Google Drive. You can watch it <a href="https://drive.google.com/file/d/1uUYWx1LyC02-lUd8qnICZpxz0MYN2-yR/view?usp=sharing">here</a>.
@@ -196,8 +170,5 @@ https://github.com/user-attachments/assets/0769e346-45ee-4748-a941-2d2a6962f4ee
 
 # Queries and Feedback
 
-For any Queries and feedback please mail me at notvenupulagam@gmail.com
+For any Queries and feedback please mail me at addalavenmanoj@gmail.com
 
-Hope the documentation helped you learn something about the project. I wish all the best for the next team to handle this project.
-
-*Thank you.*
